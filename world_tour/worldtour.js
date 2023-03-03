@@ -64,18 +64,18 @@ const showSingleData = (singleCountryData) => {
   div.innerHTML = `
   <img src="${singleCountryData.flags.png}"/>
   <h3 class="font-bold text-lg">
- ${singleCountryData.name.common}
+ <span class="text-xl">Name: </span> ${singleCountryData.name.common}
   </h3>
   <p class="py-4">
-    ${singleCountryData.population}
+  <span class="text-xl">Population: </span>${singleCountryData.population}
   </p>
-  <p>Currency: ${
+  <p><span class="text-xl">Currency: </span> ${
     singleCountryData.currencies
       ? Object.keys(singleCountryData.currencies)[0]
       : "Not Found"
   }</p>
   <div class="modal-action">
-    <label for="my-modal" class="btn">Yay!</label>
+    <label for="my-modal" class="btn">Close!</label>
   </div>
   
   `;
