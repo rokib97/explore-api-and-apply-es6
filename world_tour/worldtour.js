@@ -69,6 +69,11 @@ const showSingleData = (singleCountryData) => {
   <p class="py-4">
     ${singleCountryData.population}
   </p>
+  <p>Currency: ${
+    singleCountryData.currencies
+      ? Object.keys(singleCountryData.currencies)[0]
+      : "Not Found"
+  }</p>
   <div class="modal-action">
     <label for="my-modal" class="btn">Yay!</label>
   </div>
