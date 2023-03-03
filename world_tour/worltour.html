@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Have A Cool Tour Together</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@2.51.0/dist/full.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <section>
+      <h1 class="text-3xl text-center font-bold my-6">
+        Welcome to World Tour 2023
+      </h1>
+    </section>
+    <section
+      id="country-info"
+      class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 lg:px-12 my-8"
+    ></section>
+    <section>
+      <input type="checkbox" id="my-modal" class="modal-toggle" />
+      <div class="modal" id="modal-info"></div>
+    </section>
+
+    <script src="./worldtour.js"></script>
+  </body>
+</html>

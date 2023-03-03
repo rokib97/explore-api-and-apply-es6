@@ -1,0 +1,43 @@
+API => Application Programming Interface.
+
+# Intro To JSON => All About JSON
+    JSON 
+    => JavaScript Object Notation.
+    =>A standard text based form 
+    => Human Readable, lightweight and Language independent
+    => to store and exchange data between client and server
+    i)Why JSON?
+    ii)JSON Syntax
+    iii) JSON Value Type // string,number,boolean,null,object,array
+    iii) JS Object VS JSON
+
+// Choose any 4 API below.
+
+1) Practice JSON placeholder-Done
+3) Kanye Rest API
+4) Meme API  - Done
+5) RANDOM USER GENERATOR
+6) REST COUNTRIES API - Done
+7) SportsDB API - Done
+8) Our Own Made API Data
+=> https://raw.githubusercontent.com/rokib97/json-api/main/public/data.json
+
+
+
+Bonus: Discussion About Callback, Asynchronous JS , Promise , Async Await
+
+Resources: 
+API : https://medium.com/geekculture/a-beginners-guide-to-apis-9aa7b1b2e172
+JSON : video number (96-100) 
+https://www.youtube.com/watch?v=xG3LtrIU-Z4&list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX&index=96
+
+
+Advance Js Rersources: *****
+1) https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
+2)https://www.youtube.com/watch?v=KuhLGuNxF8U&list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq
+
+JS => 80-90% => Job 80% 
+
+TODO :
+weekly - 3 videos - random time

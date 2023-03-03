@@ -1,0 +1,101 @@
+[
+  {
+    "id": "abc",
+    "name": "Cavalier",
+    "color": "Black",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cavalier-Black-092121-3.4_672x672.jpg?v=1633034593",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cavalier-Black-LB2_672x672.jpg?v=1569069741",
+    "price": 190,
+    "quantity": 0
+  },
+  {
+    "id": "def",
+    "name": "Cavalier",
+    "color": "Sandstone",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cavalier-Sandstone-012422-3.4_672x672.jpg?v=1646426165",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cavalier-Sandstone-012422-Side_672x672.jpg?v=1646693841",
+    "price": 190,
+    "quantity": 0
+  },
+  {
+    "id": "ghi",
+    "name": "Cavalier",
+    "color": "Shadow Gray",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Mens-Cavalier-Shadow-Grey-190225_672x672.jpg?v=1569110766",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/GreyCavs__copy_672x672.jpg?v=1569076665",
+    "price": 190,
+    "quantity": 0
+  },
+  {
+    "id": "jkl",
+    "name": "Legend",
+    "color": "Dark Brown",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Legend-BlackMatte-3.4_672x672.jpg?v=1600886623",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Legend-BlackMatte-051421-Side_672x672.jpg?v=1623180476",
+    "price": 199,
+    "quantity": 0
+  },
+  {
+    "id": "mno",
+    "name": "Duke",
+    "color": "Black",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Duke-Black-LB1_e8b33de3-6f50-4619-9899-f437c4af8d6c_672x672.jpg?v=1568725092",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Duke-Black-LB2_672x672.jpg?v=1568725092",
+    "price": 199,
+    "quantity": 0
+  },
+  {
+    "id": "pqr",
+    "name": "Rogue",
+    "color": "Dark Olive",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/3.4_Rogue_DarkOliveSuede_672x672.jpg?v=1569267592",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/Side_Rogue_DarkOliveSuede_672x672.jpg?v=1569267596",
+    "price": 190,
+    "quantity": 0
+  },
+  {
+    "id": "stu",
+    "name": "Harness",
+    "color": "Gray",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Harness-Grey-Suede-LB1_672x672.jpg?v=1571254162",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Harness-Grey-Suede-LB2_672x672.jpg?v=1571254163",
+    "price": 250,
+    "quantity": 0
+  },
+  {
+    "id": "vwx",
+    "name": "Harness",
+    "color": "Dark Brown",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Harness-Brown-LB1_672x672.jpg?v=1571254620",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Harness-Brown-LB2_672x672.jpg?v=1571254625",
+    "price": 250,
+    "quantity": 0
+  },
+  {
+    "id": "yza",
+    "name": "Captain",
+    "color": "Black",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Captain-Black-092121-3.4_672x672.jpg?v=1633036711",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Captain-Black-092121-Side_672x672.jpg?v=1633036710",
+    "price": 300,
+    "quantity": 0
+  },
+  {
+    "id": "abcz",
+    "name": "Captain",
+    "color": "Black Matte",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/3.4_Captain_BlackMatte_672x672.jpg?v=1569226836",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/Side_Captain_BlackMatte_672x672.jpg?v=1569226836",
+    "price": 300,
+    "quantity": 0
+  },
+  {
+    "id": "befy",
+    "name": "Scout",
+    "color": "Midnight Blue",
+    "pairImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Scout-Midnight-LB1_6102ba48-fb66-4207-8422-f3036feac1a9_672x672.jpg?v=1568826312",
+    "sideImage": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Scout-Midnight-LB2_672x672.jpg?v=1568826312",
+    "price": 310,
+    "quantity": 0
+  }
+]

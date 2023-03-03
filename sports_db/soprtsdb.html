@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exploring SoprtsDB API</title>
+    <link
+      rel="stylesheet"
+      href="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <header class="container">
+      <h1 class="mt-4 text-center fw-bolder">Welcome To SportsDB Official</h1>
+    </header>
+
+    <main class="container">
+      <section>
+        <div class="row">
+          <div class="col-lg-6">
+            <h1>left side</h1>
+            <div class="d-flex my-5" role="search">
+              <input id="search-value" class="form-control me-2 w-50" type="search" placeholder="Search" aria-label="Search">
+              <button onclick="serachAllData()" class="btn btn-outline-success" type="submit">Search</button>
+            </div>
+            <div id="spinner" class="d-flex justify-content-center my-5 d-none">
+              <div class="spinner-border" role="status">
+                <span class="visually-hidden">Loading...</span>
+              </div>
+            </div>
+            <div id="player-info" class="row row-cols-1 row-cols-md-2 g-4">
+
+            </div>
+          </div>
+          <div class="col-lg-6 my-5">
+            <h1>right side</h1>
+            <div>
+              <img id="male" class="w-75 h-50 my-2 d-none" src="./img/male.jpeg" alt="">
+              <img id="female" class="w-75 h-50 d-none" src="./img/female.jpg" alt="">
+            </div>
+            <div id="single-player-details">
+
+            </div>
+
+          </div>
+          <div>
+  
+      </section>
+    </main>
+
+    <footer></footer>
+
+    <script src="./sports.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
