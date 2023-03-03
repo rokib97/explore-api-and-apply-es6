@@ -9,15 +9,22 @@
 const loadAllData = async () => {
   const res = await fetch("https://restcountries.com/v3.1/all");
   const data = await res.json();
+  showData(data.slice(0, 8));
+};
+
+const showAllData = async () => {
+  const res = await fetch("https://restcountries.com/v3.1/all");
+  const data = await res.json();
   showData(data);
 };
 
 const showData = (data) => {
   const container = document.getElementById("country-info");
-
-  data.slice(50, 71).forEach((country) => {
+  container.innerHTML = "";
+  data.forEach((country) => {
     // console.log(country.currencies);
     // console.log(Object.keys(country.currencies)[0]);
+
     const div = document.createElement("div");
     div.innerHTML = `
     <div class="card w-full shadow-2xl">
@@ -81,5 +88,6 @@ const showSingleData = (singleCountryData) => {
   `;
   container.appendChild(div);
 };
+
 // getALLData();
 loadAllData();
